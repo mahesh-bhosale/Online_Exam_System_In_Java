@@ -114,3 +114,32 @@ Ensure that the application is correctly connected to the database by logging in
 You can also check the **MySQL database** to ensure the data is being updated.
 
 
+## OUTPUT 
+
+### Starting Page of online exam management system(index page):
+![image](https://github.com/user-attachments/assets/2eb8ae26-f847-4dc1-b577-0bb46d83744d)
+
+###  Admin Login Page:
+
+![image](https://github.com/user-attachments/assets/d2a7c657-45a5-4392-9ed8-f81cf9575977)
+
+###  Admin Navigation Bar:
+
+![image](https://github.com/user-attachments/assets/a4a5ff74-6614-46d8-ba5c-72db084fcaa2)
+
+### Student Registration Form:
+
+![image](https://github.com/user-attachments/assets/cf30c3bf-e02b-4490-8ef4-e9823e9a5f1a)
+
+### Instruction page:
+
+![image](https://github.com/user-attachments/assets/5376983c-80cf-4dd2-b857-164ee7889e14)
+
+### Student Appearing for test:
+
+![image](https://github.com/user-attachments/assets/7713120d-31ac-4231-8a82-df058255ceed)
+
+# All Student Result:
+
+![image](https://github.com/user-attachments/assets/d379aec9-7a6d-4386-8599-a74c1952ddc6)
+

@@ -1,0 +1,16 @@
+
+# Ignore build outputs
+/dist/
+/target/
+/build/
+
+# Ignore IDE configuration files
+.idea/
+*.iml
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

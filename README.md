@@ -41,7 +41,7 @@ Follow these steps to set up the project on your local machine:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Online-Exam-System.git
+git clone https://github.com/mahesh-bhosale/Online_Exam_System_In_Java.git
 ```
 
 Follow these steps to set up the project on your local machine:
